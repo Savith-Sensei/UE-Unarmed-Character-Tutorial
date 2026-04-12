@@ -1,4 +1,4 @@
-## Unreal Engine: Unarmed Character Tutorial
+# Unreal Engine: Unarmed Character Tutorial
 
 This Tutorial walks you through creating a Character from scratch using best practices, both Computer Science and Unreal Engine, and is aimed at beginners, however, any skill level may find this educational as well. We will create a character that has the following abilities:
 
@@ -12,7 +12,7 @@ This Tutorial walks you through creating a Character from scratch using best pra
 
 In addition to all these, we will also add supporting animations for each ability. Using Blend Spaces and Animation Blueprints we will give our character the look and feel of a AAA standard game!
 
-# Dependencies
+## Dependencies
 
 Below is a list of dependencies that you will need in order to get it working properly. Don't worry it's not exhaustive by design:
 
